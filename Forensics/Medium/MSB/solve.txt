@@ -1,0 +1,1 @@
+Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisadaflag.dat | grep "pico"
