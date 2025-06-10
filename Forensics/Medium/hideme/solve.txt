@@ -1,0 +1,15 @@
+zsteg flag.png
+
+foremost flag.png
+
+cd output
+
+cd zip
+
+7z 00000077.zip
+
+cd secret
+
+feh flag.png
+
+picoCTF{Hiddinng_An_imag3_within_@n_ima9e_96539bea}

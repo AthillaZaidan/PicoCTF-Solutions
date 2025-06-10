@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jun 10 11:31:12 2025
+Invocation: foremost flag.png 
+Output directory: /mnt/d/IF_ITB/CTF/PicoCTF/PicoCTF-Solutions/Forensics/Medium/hideme/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag.png
+Start: Tue Jun 10 11:31:13 2025
+Length: 41 KB (42919 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000077.zip 	       3 KB 	      39739 	 
+1:	00000000.png 	      38 KB 	          0 	  (512 x 504)
+Finish: Tue Jun 10 11:31:13 2025
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Jun 10 11:31:13 2025
