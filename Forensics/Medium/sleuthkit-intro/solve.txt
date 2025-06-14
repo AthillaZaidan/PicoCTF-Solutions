@@ -1,0 +1,4 @@
+use gunzip for "extracting?" the file 
+and use mmls to see the linux partition length
+
+picoCTF{mm15_f7w!}
