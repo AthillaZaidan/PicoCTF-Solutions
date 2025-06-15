@@ -1,0 +1,5 @@
+write this in bash
+for i in {0..100}; do unzip *.jpg; cd base_images; done
+this will automatically unzip the *.jpg file and there will be flag.txt in the last folder
+
+picoCTF{336cf6d51c9d9774fd37196c1d7320ff}
